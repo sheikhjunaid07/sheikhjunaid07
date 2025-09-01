@@ -11,7 +11,7 @@ Let’s build something amazing together! 💡🔥
 ## 🛠️ Tech Stack & Tools
 
 
-![MERN](https://img.shields.io/badge/MERN-0A0A0A?style=for-the-badge&logo=react&logoColor=61DBFB)
+![MERN](https://img.shields.io/badge/MERN-0A0A0A?style=for-the-badge&logo=react&logoColor=61DBFB) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000000)  
@@ -32,7 +32,7 @@ Let’s build something amazing together! 💡🔥
 
 ---
 
-## 🚀 Projects
+## 🚀Top Projects
 
 ---
 
@@ -66,7 +66,7 @@ A scalable MERN stack application for vehicle allocation and consignment trackin
 
 ---
 
-### [Google Map Clone 🍴](https://map-clone-omega.vercel.app/)
+### [Google Map Clone 🗺️](https://map-clone-omega.vercel.app/)
 
 A Google Maps–style web application built with React + TypeScript + Vite and powered by the Leaflet library for interactive maps.
 
@@ -93,9 +93,9 @@ A Google Maps–style web application built with React + TypeScript + Vite and p
 
 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-junaid-76a2a31bb/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhjunaid732000@gmail.com)
-[![replit](https://img.shields.io/badge/replit-f3722c?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SheikhJunaid1)
-[![Medium](https://img.shields.io/badge/Medium-303030?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sheikhjunaid07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhjunaid732000@gmail.com) 
+[![replit](https://img.shields.io/badge/replit-f3722c?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SheikhJunaid1) 
+[![Medium](https://img.shields.io/badge/Medium-303030?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sheikhjunaid07) 
 
 ---
 
