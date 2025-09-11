@@ -3,9 +3,7 @@
 A passionate **Full Stack Developer** specializing in **React.js** and **Node.js**.  
 I love building interactive web apps and solving real-world problems through code 💻✨.
 
-When I'm not coding, you’ll find me reading and exploring something new and getting a little crazy about clean code and new tech 🤓👩‍💻🚀.
-
-Let’s build something amazing together! 💡🔥
+When I'm not coding, you’ll find me reading and exploring something new and getting a little crazy about clean code and new tech 👩‍💻🚀.
 
 ---
 ## 🛠️ Tech Stack & Tools
