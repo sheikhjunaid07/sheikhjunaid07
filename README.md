@@ -34,7 +34,7 @@ When I'm not coding, you’ll find me reading and exploring something new and ge
 
 ---
 
-### [Personal Portfolio 🤩](https://junaid-red.vercel.app/)
+### [PERSONAL PORTFOLIO 🤩](https://junaid-red.vercel.app/)
 
 A modern, responsive personal portfolio website to showcases my skills, projects, and experience in web development with a clean, interactive design.
 
