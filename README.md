@@ -52,7 +52,7 @@ A modern, responsive personal portfolio website to showcases my skills, projects
 
 ### [SHIPPING WAR 🚚](https://the-shipping-war.vercel.app/)
 
-A scalable MERN stack application for vehicle allocation and consignment tracking across multiple transport modes.
+A Scalable MERN stack application for vehicle allocation and consignment tracking across multiple transport modes.
 
 **Key Features:**
 
