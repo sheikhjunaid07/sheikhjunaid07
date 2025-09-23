@@ -83,7 +83,6 @@ A Google Maps–style web application built with React + TypeScript + Vite and p
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikhjunaid07&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhjunaid07&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheikhjunaid07&theme=radical)
 
 ---
 
