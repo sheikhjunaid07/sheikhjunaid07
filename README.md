@@ -6,28 +6,26 @@ I love building interactive web apps and solving real-world problems through cod
 When I'm not coding, you’ll find me reading and exploring something new and getting a little crazy about clean code and new tech 👩‍💻🚀.
 
 ---
+---
 ## 🛠️ Tech Stack & Tools
 
-
-![MERN](https://img.shields.io/badge/MERN-4DB33D?style=for-the-badge&logo=react&logoColor=61DBFB) 
+![MERN](https://img.shields.io/badge/MERN-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000000)  
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)  
-![Node.js](https://camo.githubusercontent.com/5efede1ede485921a068d065e72eae3446b1d4f9c8aba580ab290b060e1d436a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)  
-![Express.js](https://camo.githubusercontent.com/9789aea7953b74289df6760a71e717321e750032579075e89744c592f46461aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
 ### Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Git](https://camo.githubusercontent.com/8a6912ffd6e3bba0d696c8803e3ff21a37f24cbca4a3433e23af910250e974ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://camo.githubusercontent.com/69b4f6b47f8706dfe1ff803e503803cac105cb33c7d8ad7e110da03b9b24e835/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656e6465722d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d72656e646572266c6f676f436f6c6f723d7768697465)
-
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ---
 
 ## 🚀Top Projects
