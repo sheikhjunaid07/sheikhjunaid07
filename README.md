@@ -32,6 +32,36 @@ When I'm not coding, you’ll find me reading and exploring something new and ge
 
 ---
 
+### [DEVCOLLAB 🧑‍💻](https://devcollab-chi.vercel.app/)
+
+A real-time collaborative code editor designed to help developers write, review, and share code seamlessly in an interactive environment.
+
+**Key Features:**
+
+- ⚡ Live real-time code synchronization using Socket.io
+- 📝 Feature-rich editing experience powered by the Monaco Editor
+- 👥 Multi-user collaboration rooms with active user presence tracking
+- 🏗️ Robust backend infrastructure built with Node.js and Express.js
+
+🔗 [Live Demo](https://devcollab-chi.vercel.app/) [GitHub Repo](https://github.com/sheikhjunaid07/dev-collab)
+
+---
+
+### [CODESENSE 🤖](https://codesense-pink.vercel.app/)
+
+An intelligent, AI-powered code reviewer that automates code analysis, syntax optimization, and security checks before deployment.
+
+**Key Features:**
+
+- 🧠 Seamless integration with the Google Gemini API for advanced code understanding
+- 🔍 Automated code inspection to catch bugs, anti-patterns, and logical errors
+- 📈 Real-time, actionable optimization suggestions for cleaner and faster code execution
+- ⚙️ Interactive UI tailored for clean development workflows
+
+🔗 [Live Demo](https://codesense-pink.vercel.app/) |[GitHub Repo](https://github.com/sheikhjunaid07/codesense)
+
+---
+
 ### [PERSONAL PORTFOLIO 🤩](https://junaid-red.vercel.app/)
 
 A modern, responsive personal portfolio website to showcases my skills, projects, and experience in web development with a clean, interactive design.
