@@ -43,7 +43,7 @@ A real-time collaborative code editor designed to help developers write, review,
 - 👥 Multi-user collaboration rooms with active user presence tracking
 - 🏗️ Robust backend infrastructure built with Node.js and Express.js
 
-🔗 [Live Demo](https://devcollab-chi.vercel.app/) [GitHub Repo](https://github.com/sheikhjunaid07/dev-collab)
+🔗 [Live Demo](https://devcollab-chi.vercel.app/) | [GitHub Repo](https://github.com/sheikhjunaid07/dev-collab)
 
 ---
 
@@ -58,7 +58,7 @@ An intelligent, AI-powered code reviewer that automates code analysis, syntax op
 - 📈 Real-time, actionable optimization suggestions for cleaner and faster code execution
 - ⚙️ Interactive UI tailored for clean development workflows
 
-🔗 [Live Demo](https://codesense-pink.vercel.app/) |[GitHub Repo](https://github.com/sheikhjunaid07/codesense)
+🔗 [Live Demo](https://codesense-pink.vercel.app/) | [GitHub Repo](https://github.com/sheikhjunaid07/codesense)
 
 ---
 
