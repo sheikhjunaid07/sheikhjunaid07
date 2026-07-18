@@ -95,7 +95,7 @@ A Scalable MERN stack application for vehicle allocation and consignment trackin
 
 ---
 
-### [GOOGL MAP CLONE 🗺️](https://map-clone-omega.vercel.app/)
+### [GOOGLE MAP CLONE 🗺️](https://map-clone-omega.vercel.app/)
 
 A Google Maps–style web application built with React + TypeScript + Vite and powered by the Leaflet library for interactive maps.
 
