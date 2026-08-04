@@ -102,7 +102,6 @@ A Google Maps–style web application built with React + TypeScript + Vite and p
 **Key Features:**
 
 - 🌍 Interactive map rendering with Leaflet
-- 📍 Add & customize markers with popups
 - 🔎 Location search with geocoding
 - 📦 Fast development setup using Vite
 
