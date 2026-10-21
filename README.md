@@ -2,8 +2,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=sheikhjunaid07&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88541284%3Fu%3D72b083db0cb04f8fbcf188b246969853d7734d0d%26v%3D4" alt="sheikhjunaid07 hero visual" />
 </p>
 
-<p align="center"><b>Sheikh Junaid</b> · Frontend or full-stack engineer<br/><sub>React | JavaScript | Node | Next | Express |TypeScript | Git |</sub></p>
-
 <p align="center"><a href="https://github.com/sheikhjunaid07">GitHub</a> · <a href="https://junaid-red.vercel.app/">Website</a></p>
 
 <details open>
