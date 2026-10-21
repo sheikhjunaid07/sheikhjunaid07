@@ -64,5 +64,3 @@
 </p>
 
 </details>
-
-<p align="center"><sub>Sheikh Junaid · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
