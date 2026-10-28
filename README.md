@@ -10,13 +10,6 @@
   <img src="https://www.gitskins.com/api/section/projects?username=sheikhjunaid07&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88541284%3Fu%3D72b083db0cb04f8fbcf188b246969853d7734d0d%26v%3D4" alt="sheikhjunaid07 projects visual" />
 </p>
 
-- [the-shipping-war](https://github.com/sheikhjunaid07/the-shipping-war) · ★ 1
-- [google-map-clone-ts](https://github.com/sheikhjunaid07/google-map-clone-ts) · ★ 1
-- [content-rewriter](https://github.com/sheikhjunaid07/content-rewriter) · ★ 1
-- [PEMAPP-in-js](https://github.com/sheikhjunaid07/PEMAPP-in-js) · ★ 1
-- [dev-collab](https://github.com/sheikhjunaid07/dev-collab) · ★ 0
-- [codesense](https://github.com/sheikhjunaid07/codesense) · ★ 0
-
 </details>
 
 <details>
